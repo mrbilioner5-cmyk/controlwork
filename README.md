@@ -53,3 +53,41 @@
 </body>
 
 </html>
+body {
+    background-color: #eaf2f8;
+    color: #222222;
+    font-size: 18px;
+    padding: 30px;
+}
+
+.event {
+    background-color: white;
+    padding: 30px;
+}
+
+h1 {
+    color: #1565c0;
+    font-size: 36px;
+}
+
+h2 {
+    color: #1976d2;
+    font-size: 26px;
+}
+
+img {
+    width: 100%;
+    max-width: 700px;
+}
+
+input {
+    display: block;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 12px;
+    background-color: #1976d2;
+    color: white;
+}
